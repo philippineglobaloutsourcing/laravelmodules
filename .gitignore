@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+/composer.json
+/storage
+/tests
+/database
+/config/app.php
+/public/assets

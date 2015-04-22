@@ -1,0 +1,7 @@
+{
+	"name": "System",
+	"slug": "system",
+	"version": "1.0",
+	"description": "This is the description for the System module.",
+	"enabled": true
+}
